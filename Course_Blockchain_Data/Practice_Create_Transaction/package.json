@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bitcoin-core": "^2.0.0"
+    "bitcoin-core": "^1.2.0"
   }
 }
